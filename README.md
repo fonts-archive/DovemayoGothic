@@ -36,6 +36,6 @@ font-face
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/DovemayoGothic/Dovemayo-Gothic.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/DovemayoGothic/Dovemayo-Gothic.ttf') format('truetype');
 }
 ```
