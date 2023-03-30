@@ -33,7 +33,7 @@ font-face
 ```
 @font-face {
     font-family: 'Dovemayo Gothic';
-    font-weight: 400;
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/DovemayoGothic/Dovemayo-Gothic.ttf') format('truetype');
