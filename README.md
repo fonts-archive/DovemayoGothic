@@ -15,7 +15,7 @@ font-family: 'Dovemayo Gothic';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/DovemayoGothic/DovemayoGothic.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/DovemayoGothic/DovemayoGothic.css" type="text/css"/>
 ```
 
 &nbsp;
