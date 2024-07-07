@@ -50,7 +50,7 @@
 ### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/DovemayoGothic/subsets/Dovemayo-Gothic-dynamic-subset');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/DovemayoGothic/subsets/Dovemayo-Gothic-dynamic-subset.css');
 ```
 
 &nbsp;
